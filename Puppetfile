@@ -18,7 +18,7 @@ mod 'puppetlabs/java',        '1.6.0'
 #  :branch => 'docs_experiment'
 mod 'ssh',
   :git   => 'https://github.com/devopstest6022/puppetssh.git',
-  :brach => 'master'
+  :branch => 'master'
 
 mod 'ntp',
   :git    => 'https://github.com/devopstest6022/puppetntp.git',
